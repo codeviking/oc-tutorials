@@ -1,0 +1,9 @@
+{
+    "id"         : "lists",
+    "name"       : "Lists Tutorial",
+    "css"        : [ "css/appstyle.css" ],
+    "controller" : "controller.js",
+    "view"       : "view.js",
+    "template"   : "template.html",
+    "categoryId" : "MISC"
+}
